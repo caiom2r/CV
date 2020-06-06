@@ -1,3 +1,3 @@
 # CV
 
-This repo contains my resume in both English and Portuguese (my native language).
+This repo contains my CV in both English and Portuguese (my native language).
